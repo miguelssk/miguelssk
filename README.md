@@ -1,7 +1,6 @@
 # Hi!
 I'm Pedro Sulis, from Brazil. <br/>
-A past aspiring soccer and CS:GO professional. I used to spend most of the time playing games online. <br/>
-For a while now: programmer and musician enthusiast, open and interested in many technological areas, studying and seeking to evolve both professionally and personally. <br/>
+Enthusiast programmer, open and interested in many technological areas. Studying and seeking to evolve both professionally and personally. <br/>
 
 
 ## Languages and skills
