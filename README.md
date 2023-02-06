@@ -10,5 +10,5 @@ Enthusiast programmer, open and interested in many technological areas. Studying
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin] [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram] 
 
 [linkedIn]: https://www.linkedin.com/in/pedro-sulis/
-[instagram]: https://www.instagram.com/miguelsk_/
+
 
